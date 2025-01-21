@@ -1,5 +1,5 @@
 # Ecommerce-Follow-Along
-Milestone-1:Project Overveiw
+**Milestone-1:Project Overveiw**
 Introduction
 
 Develop a functional e-commerce application using the MERN stack (MongoDB, Express.js, React.js, Node.js), integrating front-end and back-end technologies with features like user authentication, product listings, and secure checkout.
