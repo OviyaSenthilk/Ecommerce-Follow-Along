@@ -27,30 +27,6 @@ Password Reset: Enables secure recovery via email.
 
 Session Management: Maintains secure sessions with token expiration.
 
-**Project Components**
-
-**Front-End:**
-
-Built with React.js.
-
-Pages: Home, Product Listings, Product Details, Cart, Checkout, User Profile.
-
-Features: Responsive design, Redux state management.
-
-**Back-End:**
-
-Built with Node.js and Express.js.
-
-Provides APIs for authentication, product, and order management.
-
-**Database:**
-
-MongoDB collections: Users, Products, Orders, Reviews.
-
-**Integration:**
-
-RESTful APIs, JWT for authentication, middleware for protected routes.
-
 **Project Flow**
 
 Setup: Initialize repository, configure tools (Node.js, MongoDB), and create the directory structure.
